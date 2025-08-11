@@ -52,6 +52,7 @@ amigo-secreto/
 ├── app.js              # Lógica do sorteio
 
 ├── assets/             # Imagens
+
 │   └── amigo-secreto.png
 
 └── README.md           # Este arquivo
